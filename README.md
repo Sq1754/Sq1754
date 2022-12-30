@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sq1754
-- 👀 I’m interested in ... Software development
+- 👀 I’m interested in ... Software developmentand Artificial Intelligence
 - 🌱 I’m currently learning ... Java
 - 💞️ I’m looking to collaborate on basic java Projects
 - 📫 How to reach me ... sq1754 google it
