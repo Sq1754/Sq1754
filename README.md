@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Software developmentand Artificial Intelligence
 - 🌱 I’m currently learning ... Web development
 - 💞️ I’m looking to collaborate on basic java Projects and website designing
--   my skills - Java and C
+- Skills - Java | C programming  | web development 
 - 📫 How to reach me ... sq1754 google it
 -     or mail me on saqlain4517@gmail.com
 - 
